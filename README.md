@@ -6,4 +6,4 @@ This is a place to produce, collaborate and store all information that pertains 
 We track all of the actionable tasks and collaborations to do with Marketing communications and meetups via the [projects](https://github.com/wpmarketingteam/Marcomms-Meetups/projects).
 
 
-If youv'e come here to find promtional material for your meetup click [here](https://github.com/wpmarketingteam/Marcomms-Meetups/tree/main/promotional_packs)
+If you've come here to find promtional material for your meetup click  on the ["promotional packs folder"](https://github.com/wpmarketingteam/Marcomms-Meetups/tree/main/promotional_packs)
