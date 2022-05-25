@@ -1,6 +1,5 @@
 # Marcomms-Meetups
-This repo is being merged with the new central repository for the WordPress Marketing Team 'Marketing-Team'. Please add updates there.
-
+This repository was part of the migration from Trello for the Marketing Team. Please use the discussion area in [the main Marketing repository](https://github.com/WordPress/Marketing-Team) under the WordPress organization. Items have been transferred for archive purposes and this repo will be deleted/ archived.
 
 **Previous information
 **This is a place to produce, collaborate and store all information that pertains to marcomms with regards to WP meetups. 
